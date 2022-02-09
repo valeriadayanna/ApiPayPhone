@@ -9,5 +9,5 @@
 
 #Comprobante de pago
 
-![img](https://github.com/valeriadayanna/ApiPayPhone/blob/master/Captura/PagoFinal.jfif "Optional title")
+![img](https://github.com/valeriadayanna/ApiPayPhone/blob/master/Captura/Pago%20final.jfif "Optional title")
 
